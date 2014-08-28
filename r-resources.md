@@ -22,6 +22,6 @@ I would like to list some R resources that I personally believe are great to lea
   * Data Mining and Business Analytics with R (advanced)
 
 ### Blogs to follow
-  * r-bloggers.com
+  * http://r-bloggers.com/
   * http://www.r-statistics.com/
   * http://onertipaday.blogspot.in/ - You can follow them via their twitter handle @RLangTip
