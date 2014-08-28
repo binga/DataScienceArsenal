@@ -25,3 +25,11 @@ I would like to list some R resources that I personally believe are great to lea
   * http://r-bloggers.com/
   * http://www.r-statistics.com/
   * http://onertipaday.blogspot.in/ - You can follow them via their twitter handle @RLangTip
+  * http://blog.yhathq.com/ - Some of their blog posts are many things that you could do in R
+  * http://www.rdatamining.com/ - Advanced and very informative website
+
+There are a few very important blogs that you should go through once you start working with R. Here are a few:
+
+### Important Blog posts
+  * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
+  * http://blog.revolutionanalytics.com/2013/09/top-languages-for-data-science.html
