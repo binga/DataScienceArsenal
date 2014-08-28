@@ -16,5 +16,12 @@ I would like to list some R resources that I personally believe are great to lea
     * https://www.edx.org/course/kix/kix-kiexplorx-explore-statistics-r-1524
 
 ### Books
+  * R Cookbook
+  * R in a nutshell
+  * 25 recipes for getting started with R
+  * Data Mining and Business Analytics with R (advanced)
 
 ### Blogs to follow
+  * r-bloggers.com
+  * http://www.r-statistics.com/
+  * http://onertipaday.blogspot.in/ - You can follow them via their twitter handle @RLangTip
