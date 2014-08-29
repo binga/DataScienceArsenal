@@ -50,3 +50,4 @@ There are a few very important blogs that you should go through once you start w
 ### Few more resources
   * If you are using 'for' loops in R, then you are doing it wrong. http://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
   * If you don't like R help, try this. It's fantastic. http://rdocumentation.org
+  * Write a R package - http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/
