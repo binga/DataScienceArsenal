@@ -28,12 +28,6 @@ I would like to list some R resources that I personally believe are great to lea
   * http://blog.yhathq.com/ - Some of their blog posts are many things that you could do in R
   * http://www.rdatamining.com/ - Advanced and very informative website
 
-There are a few very important blogs that you should go through once you start working with R. Here are a few:
-
-### Important Blog posts
-  * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
-  * http://blog.revolutionanalytics.com/2013/09/top-languages-for-data-science.html
-
 ### Cheatsheets
   * R reference card - http://cran.r-project.org/doc/contrib/Short-refcard.pdf
   * Lubridate package cheatsheet - http://blog.yhathq.com/static/pdf/R_date_cheat_sheet.pdf
@@ -46,6 +40,11 @@ There are a few very important blogs that you should go through once you start w
   * R Commander - Rcmdr package
   * Rattle - Rattle package
   * GrapheR - GrapheR package
+
+There are a few very important blogs that you should go through once you start working with R. Here are a few:
+### Important Blog posts
+  * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
+  * http://blog.revolutionanalytics.com/2013/09/top-languages-for-data-science.html
 
 ### Few more resources
   * If you are using 'for' loops in R, then you are doing it wrong. http://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
