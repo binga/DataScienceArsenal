@@ -33,3 +33,9 @@ There are a few very important blogs that you should go through once you start w
 ### Important Blog posts
   * http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
   * http://blog.revolutionanalytics.com/2013/09/top-languages-for-data-science.html
+
+### Cheatsheets
+  * R reference card - http://cran.r-project.org/doc/contrib/Short-refcard.pdf
+  * Lubridate package cheatsheet - http://blog.yhathq.com/static/pdf/R_date_cheat_sheet.pdf
+  * R Markdown cheatsheet - http://shiny.rstudio.com/articles/rm-cheatsheet.html
+  * Shiny cheatsheet - http://shiny.rstudio.com/articles/cheatsheet.html
