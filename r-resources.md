@@ -39,3 +39,10 @@ There are a few very important blogs that you should go through once you start w
   * Lubridate package cheatsheet - http://blog.yhathq.com/static/pdf/R_date_cheat_sheet.pdf
   * R Markdown cheatsheet - http://shiny.rstudio.com/articles/rm-cheatsheet.html
   * Shiny cheatsheet - http://shiny.rstudio.com/articles/cheatsheet.html
+
+### Graphical User Interfaces on top of R
+  * R Studio - A fantastic IDE for R.
+  * Deducer - Deducer package
+  * R Commander - Rcmdr package
+  * Rattle - Rattle package
+  * GrapheR - GrapheR package
