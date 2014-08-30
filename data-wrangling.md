@@ -12,3 +12,9 @@ This file will give you the necessary inputs on some useful packages and functio
   * RMongo
   * rmongodb
   * rhbase
+
+### Working with dates
+  * lubridate
+
+### String manipulations
+  * stringr
