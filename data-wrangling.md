@@ -1,11 +1,10 @@
 This file will give you the necessary inputs on some useful packages and functions which facilitate flexible data manipulation in R.
 
-### Packages
-  * sqldf - SQL like interface for dataframes
-  * plyr
-  * dplyr
+### For reading data
+  * foreign - read data from S, SAS, SPSS, minitab etc.
+  * XLConnect, xlsx - read data from xls files
   
-### Packages which facilitate database connectivity
+### Packages which facilitate reading from databases
   * RMySQL
   * RSQLite
   * RPostgreSQL
@@ -13,8 +12,13 @@ This file will give you the necessary inputs on some useful packages and functio
   * rmongodb
   * rhbase
 
-### Working with dates
-  * lubridate
 
-### String manipulations
-  * stringr
+### Packages for data manipulation
+  * sqldf - SQL like interface for dataframes
+  * plyr - split - apply - combine 
+  * dplyr - dataframes made easy
+  * data.table - fast calculations on large dataframes
+  * lubridate - dates made easy
+  * stringr - easy to manipulate character strings
+  * reshape2 - restructure the data
+  * XML and RJSONIO - parse XML and JSON objects
