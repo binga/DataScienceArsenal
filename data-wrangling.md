@@ -15,7 +15,7 @@ This file will give you the necessary inputs on some useful packages and functio
 
 ### Packages for data manipulation
   * sqldf - SQL like interface for dataframes
-  * plyr - split - apply - combine 
+  * plyr - (split + apply + combine) framework
   * dplyr - dataframes made easy
   * data.table - fast calculations on large dataframes
   * lubridate - dates made easy
