@@ -5,6 +5,7 @@ I would like to list some R resources that I personally believe are great to lea
   * https://www.datacamp.com/
   * http://swirlstats.com/
   * http://www.computerworld.com/article/2497143/business-intelligence/beginner-s-guide-to-r-introduction.html
+  * http://data.princeton.edu/R/default.html
 
 ### MOOCs
   * Coursera
