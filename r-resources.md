@@ -52,5 +52,5 @@ There are a few very important blogs that you should go through once you start w
   * If you don't like R help, try this. It's fantastic. http://rdocumentation.org
   * Write a R package - http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/
 
-### R style guide
+### R Style guide
 * http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml - R coding conventions by Google.
