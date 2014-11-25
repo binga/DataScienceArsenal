@@ -34,6 +34,7 @@ I would like to list some R resources that I personally believe are great to lea
   * Lubridate package cheatsheet - http://blog.yhathq.com/static/pdf/R_date_cheat_sheet.pdf
   * R Markdown cheatsheet - http://shiny.rstudio.com/articles/rm-cheatsheet.html
   * Shiny cheatsheet - http://shiny.rstudio.com/articles/cheatsheet.html
+  * data.table cheatsheet - https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf
 
 ### Graphical User Interfaces on top of R
   * R Studio - A fantastic IDE for R.
